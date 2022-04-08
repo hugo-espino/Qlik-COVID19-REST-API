@@ -8,6 +8,7 @@ User: ADMIN
 Password: ADMIN123
 
 User with reduction data:
+
 User: INDIA
 
 Password: INDIA123
